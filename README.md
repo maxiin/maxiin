@@ -3,16 +3,16 @@
 <p align='center'><b>I'm Max thanks for visiting my github page!</b></p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/maxiin/" target="_blank">
+  <a href="https://www.linkedin.com/in/maxiin/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://maxiin.github.io" target="_blank">
+  <a href="https://maxiin.github.io">
     <img src="https://img.shields.io/badge/Website-%234285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:raranmariano@hotmail.com" target="_blank">
+  <a href="mailto:raranmariano@hotmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/tigrinha" target="_blank">
+  <a href="https://t.me/tigrinha">
     <img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
@@ -22,8 +22,8 @@
 </p>
 
 **Some things about me:**
-- 🔭 I’m currently working on a <a href="https://github.com/maxiin/MapMakingExperiments" target="_blank">procedural map generation system</a> (for fun!)
-- 🌱 I’m currently learning flutter! with my <a href="https://github.com/maxiin/MeetIn" target="_blank">MeetIn App</a>
+- 🔭 I’m currently working on a [procedural map generation system](https://github.com/maxiin/MapMakingExperiments) (for fun!)
+- 🌱 I’m currently learning flutter! with my [MeetIn App](https://github.com/maxiin/MeetIn)
 - 📫 How to reach me: For professional contact i prefer email, for contact about my projects i prefer telegram!
 - 😄 Pronouns: I do prefer she/her!
 - ⚡ Fun fact: I love to make joke commits on my personal projects :3
