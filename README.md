@@ -26,7 +26,6 @@
 - 🌱 I’m currently learning flutter! with my [MeetIn App](https://github.com/maxiin/MeetIn)
 - 📫 How to reach me: For professional contact i prefer email, for contact about my projects i prefer telegram!
 - 😄 Pronouns: I do prefer she/her!
-- ⚡ Fun fact: I love to make joke commits on my personal projects :3
 
 <!--
 **maxiin/maxiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
