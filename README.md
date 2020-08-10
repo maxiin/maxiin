@@ -18,7 +18,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiin&show_icons=true&count_private=true&layout=compact&hide=lua,kotlin&show_owner=true&include_all_commits=true" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiin&show_icons=true&layout=compact&hide=lua&count_private=true&show_owner=true&include_all_commits=true" width="350"></a>
 </p>
 
 **Some things about me:**
