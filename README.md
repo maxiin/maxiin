@@ -1,6 +1,6 @@
 <h3 align='center'> Opa blz? 👋 </h3>
 
-<p align='center'><b>I'm Max thanks for visiting my github page!</b></p>
+<p align='center'><b>I'm Max thanks for visiting my github page!</b> <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/sheher.svg" height="20px"> </p>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/maxiin/">
@@ -25,7 +25,6 @@
 - 🔭 I’m currently working on a [procedural map generation system](https://github.com/maxiin/MapMakingExperiments) (for fun!)
 - 🌱 I’m currently learning flutter! with my [MeetIn App](https://github.com/maxiin/MeetIn)
 - 📫 How to reach me: For professional contact i prefer email, for contact about my projects i prefer telegram!
-- 😄 Pronouns: I do prefer she/her!
 
 <!--
 **maxiin/maxiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
