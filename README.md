@@ -16,9 +16,9 @@
   <a href="mailto:raranmariano@hotmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/tigrinha">
+  <!--<a href="https://t.me/tigrinha">
     <img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+  </a>-->
 </p>
 
 <p align='center'>
