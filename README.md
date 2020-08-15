@@ -28,7 +28,7 @@
 **Some things about me:**
 - 🔭 I’m currently working on a [procedural map generation system](https://github.com/maxiin/MapMakingExperiments) (for fun!)
 - 🌱 I’m currently learning flutter! with my [MeetIn App](https://github.com/maxiin/MeetIn)
-- 📫 How to reach me: For professional contact i prefer email<!--, for contact about my projects i prefer telegram!-->
+- 📫 How to reach me: For professional contact I prefer email<!--, for contact about my projects i prefer telegram!-->
 
 <!--
 **maxiin/maxiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
