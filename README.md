@@ -5,6 +5,7 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/sheher.svg" height="20px">
   </a>
 </p>
+<p align='center'>This is a place for my personal projects, for professional info please check my Linkedin</p>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/maxiin/">
@@ -16,9 +17,9 @@
   <a href="mailto:raranmariano@hotmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!--<a href="https://t.me/tigrinha">
+  <a href="https://t.me/tigrinha">
     <img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>-->
+  </a>
 </p>
 
 <p align='center'>
@@ -28,7 +29,7 @@
 **Some things about me:**
 - 🔭 I’m currently working on a simple web text game engine.
 - 🌱 I’m currently learning flutter! with my [MeetIn App](https://github.com/maxiin/MeetIn)
-- 📫 How to reach me: For professional contact I prefer email or linkedin<!--, for contact about my projects i prefer telegram!-->
+- 📫 How to reach me: For professional contact I prefer email or linkedin, for contact about my projects i prefer telegram!
 
 <!--
 **maxiin/maxiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
