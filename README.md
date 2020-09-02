@@ -1,9 +1,9 @@
 <h3 align='center'> Opa blz? 👋 </h3>
 
 <p align='center'><b>I'm Max thanks for visiting my github page!</b> 
-  <!--<a href="https://github.com/MikeCodesDotNET/ColoredBadges">
+  <a href="https://github.com/MikeCodesDotNET/ColoredBadges">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/sheher.svg" height="20px">
-  </a>-->
+  </a>
 </p>
 
 <p align='center'>
