@@ -29,7 +29,10 @@
 **Some things about me:**
 - 🔭 I’m currently working on a simple web text game engine.
 - 🌱 I’m currently learning flutter! with my [MeetIn App](https://github.com/maxiin/MeetIn)
+- 👯 I’m looking to collaborate on open source dart/flutter libs
+- 🤔 I’m looking for help with updating my [Ordis Prime Bot](https://github.com/maxiin/Ordis-Prime) from js to ts
 - 📫 How to reach me: For professional contact I prefer email or linkedin, for contact about my projects i prefer telegram!
+- 😄 Pronouns: I do prefer She/Her!
 
 <!--
 **maxiin/maxiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
