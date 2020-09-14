@@ -23,7 +23,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiin&show_icons=true&layout=compact&count_private=true&theme=synthwave&show_owner=true&include_all_commits=true" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiin&show_icons=true&layout=compact&count_private=true&show_owner=true&include_all_commits=true" width="350"></a>
 </p>
 
 **Some things about me:**
