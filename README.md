@@ -22,9 +22,9 @@
   </a>
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiin&layout=compact&theme=synthwave" width="350"></a>
-</p>
+</p> -->
 
 **Some things about me:**
 - 🔭 I’m currently working on a nutrition and recipes mobile app!.
